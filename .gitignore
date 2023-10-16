@@ -1,6 +1,4 @@
-**/linux/
-**/macos/
-**/windows/
+
 # Miscellaneous
 *.class
 *.log
